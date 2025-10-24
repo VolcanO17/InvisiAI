@@ -7,13 +7,13 @@
 
 ### 💝 **Support the Project & Connect**
 
-[![Hire Me](https://iSee, I said where there are Pluely written, change it to InvisiAI. But in the readme, I can now also see there is PluLi return in everywhere, not InvisiAI. So, I need InvisiAI return instead of Pluely everywhere and praveen in place of shrikant nani in readme everywhere, note only in readme everywheremg.shields.io/badge/💼%20Hire%20Me-Available%20for%20Work-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveen@example.com?subject=Hiring%20Inquiry%20-%20InvisiAI%20Developer&body=Hi%20Praveen,%0D%0A%0D%0AI%20came%20across%20your%20InvisiAI%20project%20and%20I'm%20interested%20in%20discussing%20potential%20opportunities.%0D%0A%0D%0ABest%20regards)
+[![Hire Me]](mailto:praveen17.swamy@gmail.?subject=Hiring%20Inquiry%20-%20InvisiAI%20Developer&body=Hi%20Praveen,%0D%0A%0D%0AI%20came%20across%20your%20InvisiAI%20project%20and%20I'm%20interested%20in%20discussing%20potential%20opportunities.%0D%0A%0D%0ABest%20regards)
 
 **Socials:**
-[![GitHub](https://img.shields.io/badge/GitHub-iamsrikanthnani-black?style=flat&logo=github)](https://github.com/iamsrikanthnani)
-[![Twitter](https://img.shields.io/badge/Twitter-@truly__sn-1DA1F2?style=flat&logo=twitter)](https://x.com/truly_sn)
+[![GitHub](https://img.shields.io/badge/GitHub-praveen swamy-black?style=flat&logo=github)](https://github.com/VolcanO17)
+
 [![Website](https://img.shields.io/badge/Website--blue?style=flat&logo=globe)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamsrikanthnani-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamsrikanthnani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-praveen swamy-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/praveen-n-swamy/)
 
 </div>
 
@@ -27,9 +27,9 @@ This is the **open source version** of the $15M company [Cluely](https://cluely.
 
 ### 🚀 **Get the Latest Release**
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/iamsrikanthnani/pluely/releases/latest) &nbsp; [![Download for Linux](https://img.shields.io/badge/Download%20for-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/iamsrikanthnani/pluely/releases/latest) &nbsp; [![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/iamsrikanthnani/pluely/releases/latest)
+[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)] &nbsp; [![Download for Linux](https://img.shields.io/badge/Download%20for-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)] &nbsp; [![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)]
 
-[![GitHub Release](https://img.shields.io/github/v/release/iamsrikanthnani/pluely?style=for-the-badge&logo=github&label=Latest%20Version)](https://github.com/iamsrikanthnani/pluely/releases/latest) &nbsp; [![GitHub Downloads](https://img.shields.io/github/downloads/iamsrikanthnani/pluely/total?style=for-the-badge&logo=github&label=Total%20Downloads)](https://github.com/iamsrikanthnani/pluely/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/iamsrikanthnani/pluely?style=for-the-badge&logo=github&label=Latest%20Version)](https://github.com/iamsrikanthnani/pluely/releases/latest) &nbsp; [![GitHub Downloads](https://img.shields.io/github/downloads/iamsrikanthnani/pluely/total?style=for-the-badge&logo=github&label=Total%20Downloads)]
 
 **Available formats:** `.dmg` (macOS) • `.msi` (Windows) • `.deb` (Linux)
 
@@ -629,10 +629,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🌐 **Let's Connect**
 
-[![GitHub](https://img.shields.io/badge/GitHub-iamsrikanthnani-black?style=for-the-badge&logo=github)](https://github.com/iamsrikanthnani)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-@truly__sn-black?style=for-the-badge&logo=twitter)](https://x.com/truly_sn)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-praveen swamy-black?style=for-the-badge&logo=github)](https://github.com/VolcanO17i)&nbsp;
 [![Website](https://img.shields.io/badge/Website--black?style=for-the-badge&logo=globe)]()&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamsrikanthnani-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamsrikanthnani/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamsrikanthnani-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/praveen-n-swamy/)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
 ---
