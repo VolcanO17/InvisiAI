@@ -7,7 +7,7 @@
 
 ### 💝 **Support the Project & Connect**
 
-[![Hire Me](https://img.shields.io/badge/💼%20Hire%20Me-Available%20for%20Work-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveen@example.com?subject=Hiring%20Inquiry%20-%20InvisiAI%20Developer&body=Hi%20Praveen,%0D%0A%0D%0AI%20came%20across%20your%20InvisiAI%20project%20and%20I'm%20interested%20in%20discussing%20potential%20opportunities.%0D%0A%0D%0ABest%20regards)
+[![Hire Me](https://iSee, I said where there are Pluely written, change it to InvisiAI. But in the readme, I can now also see there is PluLi return in everywhere, not InvisiAI. So, I need InvisiAI return instead of Pluely everywhere and praveen in place of shrikant nani in readme everywhere, note only in readme everywheremg.shields.io/badge/💼%20Hire%20Me-Available%20for%20Work-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveen@example.com?subject=Hiring%20Inquiry%20-%20InvisiAI%20Developer&body=Hi%20Praveen,%0D%0A%0D%0AI%20came%20across%20your%20InvisiAI%20project%20and%20I'm%20interested%20in%20discussing%20potential%20opportunities.%0D%0A%0D%0ABest%20regards)
 
 **Socials:**
 [![GitHub](https://img.shields.io/badge/GitHub-iamsrikanthnani-black?style=flat&logo=github)](https://github.com/iamsrikanthnani)
@@ -21,7 +21,7 @@
 
 This is the **open source version** of the $15M company [Cluely](https://cluely.com/) 🎯. Experience the same powerful real-time AI assistance, but with complete transparency, privacy, and customization control.
 
-## 📥 **Download Pluely**
+## 📥 **Download InvisiAI**
 
 <div align="center">
 
@@ -55,9 +55,9 @@ This is the **open source version** of the $15M company [Cluely](https://cluely.
 
 **🚀 Experience AI assistance that's lighter than a single photo, always visible, and instantly accessible without disrupting your workflow.**
 
-#### 📊 **Pluely vs Original Cluely**
+#### 📊 **InvisiAI vs Original Cluely**
 
-|       Feature       |   🟢 **Pluely (Open Source)**   |      🔴 **Original Cluely**       |
+|       Feature       |   🟢 **InvisiAI (Open Source)**   |      🔴 **Original Cluely**       |
 | :-----------------: | :-----------------------------: | :-------------------------------: |
 |    **App Size**     |          **~10MB** ⚡           |           **~270MB** 🐌           |
 | **Size Difference** |       **27x Smaller** 🪶        | Bloated with unnecessary overhead |
@@ -70,7 +70,7 @@ This is the **open source version** of the $15M company [Cluely](https://cluely.
 
 ## 🚀 Future Developments
 
-Continuously working to enhance Pluely with these highly requested features:
+Continuously working to enhance InvisiAI with these highly requested features:
 
 ### 🎯 **Top Priority Features**
 
@@ -148,7 +148,7 @@ _Browse through previous conversations, search chat history, and continue where 
 
 ### 🔧 **AI Provider Setup**
 
-Get started with your preferred AI provider in seconds. Pluely supports all major LLM providers with dynamic model fetching, custom providers, and seamless integration:
+Get started with your preferred AI provider in seconds. InvisiAI supports all major LLM providers with dynamic model fetching, custom providers, and seamless integration:
 
 <div align="center">
 
@@ -200,7 +200,7 @@ For providers not in our list, use the custom provider option:
 
 ### 🎤 **Speech-to-Text Provider Setup**
 
-Pluely supports advanced voice input with multiple speech-to-text providers for accurate, real-time transcription. Choose from industry-leading STT services or add your own custom provider:
+InvisiAI supports advanced voice input with multiple speech-to-text providers for accurate, real-time transcription. Choose from industry-leading STT services or add your own custom provider:
 
 <div align="center">
 
@@ -225,7 +225,7 @@ Pluely supports advanced voice input with multiple speech-to-text providers for 
 - **🌍 Multi-Language Support**: Choose providers optimized for specific languages
 - **⚡ Fast & Accurate**: Industry-leading transcription accuracy and speed
 - **🔒 Secure Authentication**: API keys stored locally and securely
-- **🎨 Seamless Integration**: Works with Pluely's voice input features
+- **🎨 Seamless Integration**: Works with InvisiAI's voice input features
 
 #### 🛠️ **Custom STT Provider Setup**
 
@@ -246,13 +246,13 @@ Can't find your preferred speech-to-text provider? Add custom STT providers with
 
 ---
 
-## 🌟 Why Pluely?
+## 🌟 Why InvisiAI?
 
 ### 👻 **Completely Undetectable & Stealth**
 
 > **🎯 The Ultimate Stealth AI Assistant - Invisible to Everyone**
 
-Pluely is engineered to be **completely invisible** during your most sensitive moments:
+InvisiAI is engineered to be **completely invisible** during your most sensitive moments:
 
 - **🔍 Undetectable in video calls** - Works seamlessly in Zoom, Google Meet, Microsoft Teams, Slack Huddles, and all other meeting platforms
 - **📺 Invisible in screen shares** - Your audience will never know you're using AI assistance
@@ -265,7 +265,7 @@ Pluely is engineered to be **completely invisible** during your most sensitive m
 
 ### 🔥 **Blazingly Fast with Tauri**
 
-Built with **Tauri**, Pluely delivers native desktop performance with minimal resource usage:
+Built with **Tauri**, InvisiAI delivers native desktop performance with minimal resource usage:
 
 - **Instant startup** - launches in milliseconds
 - **10x smaller** than Electron apps (~10MB vs ~100MB)
@@ -275,7 +275,7 @@ Built with **Tauri**, Pluely delivers native desktop performance with minimal re
 
 ### 🛡️ **Privacy-First Architecture**
 
-Unlike cloud-based solutions, Pluely keeps everything local:
+Unlike cloud-based solutions, InvisiAI keeps everything local:
 
 - **Your data never touches any servers** - all processing happens locally and with your LLM provider
 - **API keys stored securely** in your browser's localStorage
@@ -284,7 +284,7 @@ Unlike cloud-based solutions, Pluely keeps everything local:
 
 ## 🖥️ **Always-On, One Click Away**
 
-Pluely sits quietly on your desktop, ready to assist instantly with zero setup time:
+InvisiAI sits quietly on your desktop, ready to assist instantly with zero setup time:
 
 ### 🎯 **Perfect for Sensitive Scenarios**
 
@@ -405,7 +405,7 @@ This creates platform-specific installers in `src-tauri/target/release/bundle/`:
 
 ### **Why Frontend API Calls Are Better**
 
-Pluely makes API calls directly from your frontend because:
+InvisiAI makes API calls directly from your frontend because:
 
 1. **🔒 Maximum Privacy**: Your conversations never touch our servers
 2. **🚀 Better Performance**: Direct connection = faster responses
