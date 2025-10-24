@@ -10,10 +10,10 @@
 [![Hire Me]](mailto:praveen17.swamy@gmail.?subject=Hiring%20Inquiry%20-%20InvisiAI%20Developer&body=Hi%20Praveen,%0D%0A%0D%0AI%20came%20across%20your%20InvisiAI%20project%20and%20I'm%20interested%20in%20discussing%20potential%20opportunities.%0D%0A%0D%0ABest%20regards)
 
 **Socials:**
-[![GitHub](https://img.shields.io/badge/GitHub-praveen swamy-black?style=flat&logo=github)](https://github.com/VolcanO17)
+[![GitHub](https://img.shields.io/badge/GitHub-praveenswamy-black?style=flat&logo=github)](https://github.com/VolcanO17)
 
 [![Website](https://img.shields.io/badge/Website--blue?style=flat&logo=globe)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-praveen swamy-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/praveen-n-swamy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-praveenswamy-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/praveen-n-swamy/)
 
 </div>
 
