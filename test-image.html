@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OCR Test Image Generator</title>
+</head>
+<body>
+    <h1>OCR Test Image Generator</h1>
+    <canvas id="canvas" width="400" height="200" style="border: 1px solid black;"></canvas>
+    <br><br>
+    <a id="downloadLink" download="ocr-test.png">
+        <button>Download Test Image</button>
+    </a>
+
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        
+        // Fill background
+        ctx.fillStyle = 'white';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        
+        // Add text
+        ctx.fillStyle = 'black';
+        ctx.font = '24px Arial';
+        ctx.fillText('Hello World!', 50, 50);
+        ctx.fillText('This is a test image', 50, 80);
+        ctx.fillText('for OCR functionality', 50, 110);
+        ctx.fillText('Can you read this text?', 50, 140);
+        
+        // Create download link
+        canvas.toBlob(function(blob) {
+            const url = URL.createObjectURL(blob);
+            document.getElementById('downloadLink').href = url;
+        });
+    </script>
+</body>
+</html>

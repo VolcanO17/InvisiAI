@@ -1,0 +1,10 @@
+TEST DOCUMENT CONTENT
+
+This is a test document with the following information:
+- Name: John Doe
+- Position: Software Developer  
+- Skills: React, TypeScript, Node.js
+- Experience: 5 years
+- Location: New York
+
+This document is being used to test whether the AI can access and read uploaded file content properly.
